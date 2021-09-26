@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![cardano-login](https://user-images.githubusercontent.com/89995315/134789684-622a6172-f454-4986-b8ed-eedb9e8dbcad.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
